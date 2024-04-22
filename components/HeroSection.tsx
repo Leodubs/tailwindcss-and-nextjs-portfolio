@@ -24,7 +24,7 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
             Arts & IT Project Engineer{" "}
             </span>
-            based in France. Working towards developing open source software that share more common and protect our private life.
+            based in France. Working towards developing open source software that shares more common and protects our private life.
           </p>
           <Link
             to="projects"
