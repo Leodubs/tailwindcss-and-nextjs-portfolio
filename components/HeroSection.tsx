@@ -22,10 +22,9 @@ const HeroSection = () => {
           <p className="text-lg mt-4 mb-6 md:text-2xl">
             I&#39;m a{" "}
             <span className="font-semibold text-teal-600">
-              IT Projects Engineer{" "}
+            Arts & IT Project Engineer{" "}
             </span>
-            based in France. Working towards managing open source software that
-            makes life easier and more meaningful.
+            based in France. Working towards developing open source software that share more common and protect our private life.
           </p>
           <Link
             to="projects"
