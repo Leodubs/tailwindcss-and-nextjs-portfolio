@@ -29,37 +29,38 @@ const AboutSection = () => {
             <h1 className="text-center text-2xl font-bold mb-6 md:text-left">
               Get to know me!
             </h1>
+{/* changed parts */}
             <p>
-              Hi, my name is Hosna and I am a{" "}
+              Hi, my name is Eleonore and I am a{" "}
               <span className="font-bold">{"highly ambitious"}</span>,
               <span className="font-bold">{" self-motivated"}</span>, and
-              <span className="font-bold">{" driven"}</span> software engineer
-              based in Los Angeles, CA.
+              <span className="font-bold">{" driven"}</span> open source project manager
+              based in France.
             </p>
             <br />
             <p>
-              I graduated from California State University, Northridge in 2019
-              with a BS in Computer Engineering and have been working in the
-              field ever since.
+              I graduated from Lille III University in 2008
+              with a Master Degree in Management of nternational cooperation organisations and intercultural projects engineering. Amongst a few years directing a professional dancers center and artistic productions, I started driving the digital transformation of 200 cultural operators in 2012. I have been dedicated to free software alternatives ever since.
             </p>
             <br />
             <p>
-              I have a wide range of hobbies and passions that keep me busy.
-              From reading, playing sports, traveling, to making YouTube videos,
-              I am always seeking new experiences and love to keep myself
+              I have a wide range of (paradoxal sometimes) interests that keep me busy.
+              From reading graphic novels, performing Taï Chi, traveling / hiking / bikepacking, to making ceramics,
+              I am always seeking ways to get creative and love to keep myself
               engaged and learning new things.
             </p>
             <br />
             <p>
               I believe that you should{" "}
               <span className="font-bold text-teal-500">
-                never stop growing
+                always question
               </span>{" "}
-              and that&#39;s what I strive to do, I have a passion for
+              and that&#39;s what I strive to do, I have a passion for arts &
               technology and a desire to always push the limits of what is
               possible. I am excited to see where my career takes me and am
               always open to new opportunities. 🙂
             </p>
+{/* end of changed parts */}
           </div>
           <div className="text-center md:w-1/2 md:text-left">
             <h1 className="text-2xl font-bold mb-6">My Skills</h1>
