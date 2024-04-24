@@ -4,6 +4,16 @@ import Link from "next/link"
 import SlideUp from "./SlideUp"
 import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
+const myProjects = [
+  {
+    name: "Under construction",
+    description: 
+      "Follow my previous IT products & services on my kanban",
+    image: "/platoio.png",
+    link: "https://kanban.picasoft.net/b/KDNiZ6kaAgxGkS2JP/portfolio",
+  },
+]
+
 const projects = [
   {
     name: "Thankful Thoughts",
@@ -39,7 +49,7 @@ const ProjectsSection = () => {
       </h1>
 
       <div className="flex flex-col space-y-28">
-        {projects.map((project, idx) => {
+        {myProjects.map((project, idx) => {
           return (
             <div key={idx}>
               <SlideUp offset="-300px 0px -300px 0px">
@@ -61,12 +71,12 @@ const ProjectsSection = () => {
                       {project.description}
                     </p>
                     <div className="flex flex-row align-bottom space-x-4">
-                      <Link href={project.github} target="_blank">
+{/*                       <Link href={project.github} target="_blank">
                         <BsGithub
                           size={30}
                           className="hover:-translate-y-1 transition-transform cursor-pointer"
                         />
-                      </Link>
+                      </Link> */}
                       <Link href={project.link} target="_blank">
                         <BsArrowUpRightSquare
                           size={30}
