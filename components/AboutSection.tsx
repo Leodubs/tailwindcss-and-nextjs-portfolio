@@ -32,9 +32,9 @@ const AboutSection = () => {
 {/* changed parts */}
             <p>
               Hi, my name is Eleonore and I am a{" "}
-              <span className="font-bold">{"highly ambitious"}</span>,
-              <span className="font-bold">{" self-motivated"}</span>, and
-              <span className="font-bold">{" driven"}</span> open source project manager
+              <span className="font-bold">{"committed"}</span>,
+              <span className="font-bold">{" goal-oriented"}</span>, and
+              <span className="font-bold">{" resourceful"}</span> open source project manager
               based in France.
             </p>
             <br />
