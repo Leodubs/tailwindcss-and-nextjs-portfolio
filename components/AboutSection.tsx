@@ -40,7 +40,7 @@ const AboutSection = () => {
             <br />
             <p>
               I graduated from Lille III University in 2008
-              with a Master Degree in Management of nternational cooperation organisations and intercultural projects engineering. Amongst a few years directing a professional dancers center and artistic productions, I started driving the digital transformation of 200 cultural operators in 2012. I have been dedicated to free software alternatives ever since.
+              with a Master's in International cooperation organisations Management and Intercultural projects Engineering. Amongst a few years directing a professional dancers center and artistic productions, I started driving the digital transformation of 200 cultural operators in 2012. I have been dedicated to free software alternatives ever since.
             </p>
             <br />
             <p>
